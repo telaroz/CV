@@ -16,24 +16,36 @@ output:
 **Sports Data Campus** 2021
 Diploma Universitario en Analítica Avanzada en Balonmano
 
-* Aplicación de los temas de los cursos en dos tareas colaborativas y trabajo final. Las tareas colaborativas son de acceso libre en los siguientes enlaces: [Colaborativa 1](https://telaroz.github.io/colaborativa1/), [Colaborativa 2](https://telaroz.github.io/colaborativa2/).
+* Aplicación de los temas de los cursos en dos tareas colaborativas y trabajo
+final. Las tareas colaborativas son de acceso libre en los siguientes enlaces: 
+[Colaborativa 1](https://telaroz.github.io/colaborativa1/), 
+[Colaborativa 2](https://telaroz.github.io/colaborativa2/),
+[Tarea Final](https://telaroz.github.io/tarea_final/).
 
 **Otros desarrollos**
 
-* Extracción, estructuración y apertura de los datos jugada a jugada del mundial masculino de balonmano Egipto 2021. Estos datos y el código para generarlos está disponible libremente en [Github](https://github.com/telaroz/egipto21).
+* Extracción, estructuración y apertura de los datos jugada a jugada del mundial
+masculino de balonmano Egipto 2021. Estos datos y el código para generarlos está 
+disponible libremente en [Github](https://github.com/telaroz/egipto21).
 
-* Creación de una aplicación para la recopilación y posterior análisis de lanzamientos de 7m para la selección masculina de balonmano de Costa Rica. 
-
+* Creación de una aplicación para la recopilación y posterior análisis de
+lanzamientos de 7m para la selección masculina de balonmano de Costa Rica.
+Una versión de la aplicación se puede ver acá: 
+[7 metros](https://telaroz.shinyapps.io/lanz_7_metros/)
 
 ## Experiencia deportiva
 
 
 **Selección Nacional de Balonmano de Costa Rica**  
-Marzo 2014 - Actualidad
+Marzo 2014 -- Actualidad
 
 - Juegos Centroamericanos y del Caribe 2018
 
 - Torneo Centroamericano Masculino Mayor El Salvador 2019 - Oro
+
+- Torneo Centroamericano Masculino Mayor Honduras 2021 - Oro
+
+- Campeonato Sudamericano y Centroamericano de Balonmano Masculino 2022 
 
 ## Educación
 
@@ -44,23 +56,52 @@ Maestría Aplicada, Ciencia de Datos e Inteligencia Artificial
 Bachillerato, Ciencias Actuariales
 
 
-## Experiencia 
+## Experiencia Laboral
+
+**ixpantia** 
+Data science professional
+Trabajo Remoto (basado en Costa Rica) Agosto 2021 -- Presente
+Consultoría de datos 
+
+* Automatización y generación de procesos de cálculos de indicadores de crédito. 
+* Desarrollo de modelos estadísticos y de machine learning para modelación de la
+aprobación de crédito, con un enfoque en la reproducibilidad y mejores prácticas
+de ciencia de datos.
+* Automatización, simplificación y optimización de procesos que involucran 
+flujos a través de APIs. 
+* Desarrollo de APIs para pasar de un flujo de datos físico a flujos en la nube.
+* Despliegue básico de flujos de datos en la nube (Google Cloud Computing)
+* Capacitaciones internas al propio equipo. 
+* Impartir un curso sobre R avanzado a una institución financiera. 
+* Todo este trabajo a través de un flujo limpio de control de versiones y 
+documentación completa. 
 
 **Mastercard SJO Center of Excellence**  
 Associate Consultant, Advanced Analytics.  
-San José, Costa Rica. Mayo 2019 -- Presente
+San José, Costa Rica. Mayo 2019 -- Mayo 2022
 
-* Desarrollo y entrega de sofisticados productos de análisis de datos para gran variedad de entidades financieras de todo el continente, apoyados en los cientos de GB de data transaccional que sostiene la compañía. Las entregas abarcan segmentaciones comportamentales de clientes, análisis post hoc de desempeño de campañas, modelos de migración de productos, diagnósticos de autorizaciones y fraudes, asesoramientos de calidad de data, entre otros esfuerzos menores.
-* Presentaciones técnicas y metodológicas de los proyectos, para stakeholders internos como externos, de perfiles mayoritariamente no técnicos.
-* Desarrollo de paquetes de R propietarios para uso interno. Estos paquetes permiten llevar a cabo proyectos de principio a fin de forma más sencilla y automatizada, además de recopilar funciones que pueden ser utilizadas para múltiples propósitos.
+* Desarrollo y entrega de sofisticados productos de análisis de datos para gran 
+variedad de entidades financieras de todo el continente, apoyados en los cientos
+de GB de data transaccional que sostiene la compañía. Las entregas abarcan 
+segmentaciones comportamentales de clientes, análisis post hoc de desempeño de 
+campañas, modelos de migración de productos, diagnósticos de autorizaciones y
+fraudes, asesoramientos de calidad de data, entre otros esfuerzos menores.
+* Presentaciones técnicas y metodológicas de los proyectos, para stakeholders 
+internos como externos, de perfiles mayoritariamente no técnicos.
+* Desarrollo de paquetes de R propietarios para uso interno. Estos paquetes 
+permiten llevar a cabo proyectos de principio a fin de forma más sencilla y 
+automatizada, además de recopilar funciones que pueden ser utilizadas para 
+múltiples propósitos.
 * Capacitaciones internas de R al propio equipo.
 
 **Instituto Nacional de Seguros**  
 Técnico en Reservas  
 San José, Costa Rica. Enero 2018 – Abril 2019
 
-* Reescritura y automatización desde VBA y Excel hacia R del cálculo de las reservas por seguros.
-*	Uso de métodos estadístisticos para proyectar reservas y simulación de múltiples escenarios.
+* Reescritura y automatización desde VBA y Excel hacia R del cálculo de las 
+reservas por seguros.
+*	Uso de métodos estadístisticos para proyectar reservas y simulación de 
+múltiples escenarios.
 
 **Centro de Investigación en Matemática Pura y Aplicada (CIMPA)**  
 Asistente de Investigación - Estudio de tránsito en la Gran Área Metropolitana (Dr. Maikol Solís)
@@ -71,20 +112,21 @@ San José, Costa Rica. Marzo 2017 – Enero 2018
 
 ## Experiencia Académica
 
-
-
 **Clasificación de sentimientos en textos cortos e informales en español**
  
 Procesamiento de Lenguaje Natural  
 Desarrollado en R, Ago 2016 - Jul 2017
 
-- Construcción matemática rigurosa de una medida signada para apalancar una herramienta de clasificación de texto para cualquier dicotomía de sentimientos.
+- Construcción matemática rigurosa de una medida signada para apalancar una
+herramienta de clasificación de texto para cualquier dicotomía de sentimientos.
 
 **Análisis del mercado de flores a través de tendencias de búsquedas en Google**  
 Análisis de series de tiempo  
 Desarrollado en R, Nov 2017 - Dic 2017
 
-- Utilizando modelos básicos de análisis de series de tiempo como modelos ARIMA, se caracterizaron las fluctuaciones y crecimiento esperado del mercado de flores basándonos en la serie de tiempo de búsquedas de la palabra 'flower'.
+- Utilizando modelos básicos de análisis de series de tiempo como modelos ARIMA,
+se caracterizaron las fluctuaciones y crecimiento esperado del mercado de flores
+basándonos en la serie de tiempo de búsquedas de la palabra 'flower'.
 
 
 **Estrategias de apuestas en línea sobre partidos de la MLB**  
@@ -92,9 +134,26 @@ Backtesting
 Desarrollado en VBA, Jun 2016 - Jul 2016
 
 
-- Simulamos el desempeño de distintas estrategias de apuestas que podría jugar un individuo sin conocimiento del deporte, basándose solamente en información extraída de páginas de apuestas en línea. Desarrollamos una estrategia de Martingala modificada con buenas probabilidades de ganancias en cualquier subconjunto del periodo estudiado.
+- Simulamos el desempeño de distintas estrategias de apuestas que podría jugar 
+un individuo sin conocimiento del deporte, basándose solamente en información 
+extraída de páginas de apuestas en línea. Desarrollamos una estrategia de
+Martingala modificada con buenas probabilidades de ganancias en cualquier
+subconjunto del periodo estudiado.
 
 ## Experiencia Extracurricular
+
+**Datalatam, 2021**
+* **Presentación** "data.table para usuarios de dplyr y tidyverse"
+
+[Video en Youtube](https://www.youtube.com/watch?v=5AWoIgdHcT0&ab_channel=DataLatam)
+
+**ConectaR, 2021**  
+San José, Costa Rica  
+February 2021 
+
+* **Presentación corta** "Estadísticas de grupo rápidas with data.table"
+
+[Link al artículo](https://telaroz.github.io/conectaR2021/)
 
 **ConectaR, 2019**  
 San José, Costa Rica  
@@ -106,7 +165,6 @@ Enero 2019
   
 * **Poster:** "Comparación de métodos de clasificación con R"
 
-
 ## Habilidades técnicas
 
   - Dominio avanzado de desarrollo en R: creación de paquetes, paralelización y alta eficiencia
@@ -114,8 +172,9 @@ Enero 2019
   - Habilidades en desarrollo de aplicaciones Shiny
   - Conocimiento sólido en Excel y VBA
   - Conocimiento sólido en Matlab
-  - Creación de modelos de Deep Learning con Tensorflow a través de Keras en R
+  - Conocimiento sólido de SQL
   - Uso de Impala y Spark a través de R, apalancado del conocimiento en SQL
+  - Creación de modelos de Deep Learning con Tensorflow a través de Keras en R
   - Conocimiento básico de Python
 
 

@@ -16,15 +16,23 @@ output:
 **Sports Data Campus** 2021
 University Diploma in Advanced Analyics in Handball
 
-* Topics and ideas of the course were applied in two tasks and a final work. These are accesible (in spanish) through these links: 
-[Task 1](https://telaroz.github.io/colaborativa1/), [Task 2](https://telaroz.github.io/colaborativa2/), [Final Work](https://telaroz.github.io/tarea_final/).
+* Topics and ideas of the course were applied in two tasks and a final work. 
+These are accesible (in spanish) through these links: 
+[Task 1](https://telaroz.github.io/colaborativa1/), 
+[Task 2](https://telaroz.github.io/colaborativa2/), 
+[Final Work](https://telaroz.github.io/tarea_final/).
 
 
 **Other developments**
 
-* Extraction, structuring and data opening of the play by play of the 2021 World Men's Handball Championship. Data and the code to generate it is available freely in [Github](https://github.com/telaroz/egipto21).
+* Extraction, structuring and data opening of the play by play of the 2021 World
+Men's Handball Championship. Data and the code to generate it is freely 
+available in [Github](https://github.com/telaroz/egipto21).
 
-* Creation of a Shiny app for the collection and a posterior analysis of the 7m shootings data for the Costa Rican Men's National Handball Team.
+* Creation of a Shiny app for the collection and a posterior analysis of the 7m 
+shootings data for the Costa Rican Men's National Handball Team. 
+A version of this app can be seen here:
+[7 meters](https://telaroz.shinyapps.io/lanz_7_metros/)
 
 
 ## Personal Sports Experience
@@ -34,7 +42,11 @@ March 2014 - Present
 
 - Central American and Caribbean Games, 2018
 
-- Torneo Centroamericano Masculino Mayor El Salvador 2019 
+- Torneo Centroamericano Masculino Mayor El Salvador 2019 - Gold
+
+- Torneo Centroamericano Masculino Mayor Honduras 2021 - Gold
+
+- Campeonato Sudamericano y Centroamericano de Balonmano Masculino 2022 
 
 
 ## Education
@@ -48,21 +60,43 @@ Bachelor of Science, Actuarial Science.
 
 ## Professional Experience
 
+**ixpantia**  
+Data Professional.
+Remote. August 2021 -- Present
+
+* Develop models for financial institutions, focusing on reproducibility and the
+best data science practices. 
+* Develop scripts to complete law changes for financial institutions.
+* Help with the development of APIs to shift on-premise workflows to cloud 
+* Document APIs smoothly through automation. 
+* Simplifying and automation of worflows for API consumption.
+* Deployment of basic workflows to cloud (Google CLoud Computing)
+* Imparted an R advanced R course for a finantial institution
+* All this work done through a clean version control workflow and complete 
+documentation. 
+
 **Mastercard SJO Center of Excellence**  
 Associate Consultant, Advanced Analytics.  
 San José, Costa Rica. May 2019 -- Present
 
-*	Delivery of advanced analytics products for several financial institutions across the continent, leveraging the hundreds of GB of transactional data the company holds. Some of the deliveries included fraud rules creation, customer behavioural segmentations, campaign performance diagnostics, product migration models, authorizations diagnostics and data quality assessments.
-* Technical and methodological presentations of the projects for internal and external stakeholders mostly of non-technical profiles. 
-* Development of in-house R-packages. These fully documented packages allow to complete specific kind of projects from beginning to end, while also compiling functions for multiple purposes. 
+*	Delivery of advanced analytics products for several financial institutions
+across the continent, leveraging the hundreds of GB of transactional data the 
+company holds. Some of the deliveries included fraud rules creation, customer 
+behavioural segmentations, campaign performance diagnostics, product migration 
+models, authorizations diagnostics and data quality assessments.
+* Technical and methodological presentations of the projects for internal and
+external stakeholders mostly of non-technical profiles. 
+* Development of in-house R-packages. These fully documented packages allow to
+complete specific kind of projects from beginning to end, while also compiling 
+functions for multiple purposes. 
 * Imparted R trainings for the team.
-
 
 **Instituto Nacional de Seguros**  
 Reserve Technician.
 San José, Costa Rica. January 2018 – April 2019
 
-* Computation of benefit reserves process automation (migration from VBA& Excel to R) and interaction between Excel and R.
+* Computation of benefit reserves process automation (migration from VBA& Excel 
+to R) and interaction between Excel and R.
 *	Use of statistical models to project reserves and scenario simulations.
 
 **Research Center in Pure and Applied Mathematic (CIMPA for its acronym in Spanish) (UCR)**  
@@ -78,24 +112,34 @@ San José, Costa Rica. March 2017 – January 2018
 Natural Language Processing  
 Developed in R, Aug 2016 - Jul 2017
 
-- Fitting text sentiment scoring into a rigorous mathematical framework, we constructed a signed measure function and created a language-agnostic and category-agnostic text classification tool. 
+- Fitting text sentiment scoring into a rigorous mathematical framework, we
+constructed a signed measure function and created a language-agnostic and 
+category-agnostic text classification tool. 
 
 **Flower Market Analysis Through Google Web Searches**  
 Time Series Analysis  
 Developed in R, Nov 2017 - Dec 2017
 
-- Using basic time series analysis frameworks like ARIMA(p,q) models, we characterized the fluctuations and expected growth rate of the flower market based on time series analysis using web searches of the word “flower.”
+- Using basic time series analysis frameworks like ARIMA(p,q) models, we 
+characterized the fluctuations and expected growth rate of the flower market
+based on time series analysis using web searches of the word “flower.”
 
 **Betting Strategy Evaluation of Online MLB Matches**  
 Backtesting  
 Developed in VBA, Jun 2016 - Jul 2016
 
-- We simulated the performance of several betting strategies for an individual with no prior sports knowledge, based solely on information that can be subtracted from online betting websites. We developed and tested a modified Martingale strategy which provided a high chance of profit in any subset of the time interval studied. 
-
-
+- We simulated the performance of several betting strategies for an individual 
+with no prior sports knowledge, based solely on information that can be 
+subtracted from online betting websites. We developed and tested a modified 
+Martingale strategy which provided a high chance of profit in any subset of 
+the time interval studied. 
 
 ## Extracurricular Activities
 
+**Datalatam, 2021**
+* **Presentation** "data.table for dplyr and tidyverse users"
+
+[Video in spanish](https://www.youtube.com/watch?v=5AWoIgdHcT0&ab_channel=DataLatam)
 
 **ConectaR, 2021**  
 San José, Costa Rica  
@@ -104,7 +148,6 @@ February 2021
 * **Short presentation** "Fast Group Statistics with data.table"
 
 [Link to article in spanish](https://telaroz.github.io/conectaR2021/)
-
 
 **ConectaR, 2019**  
 San José, Costa Rica  
@@ -118,8 +161,6 @@ January 2019
   
 * **Poster:** "Supervised classification methods comparison using R."
 
-
-
 ## Technical Skills
 
   - Experience in R development: package creation, parallelization and high efficient code. 
@@ -127,8 +168,9 @@ January 2019
   - Experience in Shiny apps development
   - Solid Excel and VBA knowledge
   - Solid Matlab knowledge
-  - Deep Learning Model Creation with Tensorflow with Keras in R
+  - Solid SQL knowledge
   - Impala and Spark usage through R while also using direct SQL querying
+  - Deep Learning Model Creation with Tensorflow with Keras in R
   - Basic Python knowledge
 
 ## Languages
