@@ -1,0 +1,117 @@
+---
+title: "Valery Zúñiga Kondrashov"
+date: "`r Sys.Date()`"
+author: 
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+#### San José, Costa Rica ⬝ (+506) 8439-4445 ⬝ telaroz@gmail.com ⬝  [github](https://github.com/telaroz/) 
+
+## Education
+
+**Data ScienceTech Institute**, (2020 - Ongoing).  
+Applied MSc in Data Science & Artificial Intelligence.
+
+**Universidad de Costa Rica, Escuela de Matemática** (2013 - 2018).  
+Bachelor of Science, Actuarial Science.
+
+
+## Professional Experience
+
+**Mastercard SJO Center of Excellence**  
+Associate Consultant, Advanced Analytics.  
+San José, Costa Rica. May 2019 -- April 2022
+
+*	Delivery of advanced analytics products for several financial institutions across the continent, leveraging the hundreds of GB of transactional data the company holds. Some of the deliveries included fraud rules creation, customer behavioural segmentations, campaign performance diagnostics, product migration models, authorizations diagnostics and data quality assessments.
+* Technical and methodological presentations of the projects for internal and external stakeholders mostly of non-technical profiles. 
+* Development of in-house R-packages. These fully documented packages allow to complete specific kind of projects from beginning to end, while also compiling functions for multiple purposes. 
+* Imparted R trainings for the team.
+
+
+**Instituto Nacional de Seguros**  
+Reserve Technician.
+San José, Costa Rica. January 2018 – April 2019
+
+* Computation of benefit reserves process automation (migration from VBA& Excel to R) and interaction between Excel and R.
+*	Use of statistical models to project reserves and scenario simulations.
+
+**Research Center in Pure and Applied Mathematic (CIMPA for its acronym in Spanish) (UCR)**  
+Investigation Assistant - Transit in the Great Metropolitan Area model study (Dr. Maikol Solís)
+San José, Costa Rica. March 2017 – January 2018
+
+* Manipulation of data from cell phone connections to antennas
+* Study and plotting of the movement of individuals
+
+## Academic Experience
+
+**Generalized Sentiment Scoring of Short Informal Text in Spanish**  
+Natural Language Processing  
+Developed in R, Aug 2016 - Jul 2017
+
+- Fitting text sentiment scoring into a rigorous mathematical framework, we constructed a signed measure function and created a language-agnostic and category-agnostic text classification tool. 
+
+**Flower Market Analysis Through Google Web Searches**  
+Time Series Analysis  
+Developed in R, Nov 2017 - Dec 2017
+
+- Using basic time series analysis frameworks like ARIMA(p,q) models, we characterized the fluctuations and expected growth rate of the flower market based on time series analysis using web searches of the word “flower.”
+
+**Betting Strategy Evaluation of Online MLB Matches**  
+Backtesting  
+Developed in VBA, Jun 2016 - Jul 2016
+
+- We simulated the performance of several betting strategies for an individual with no prior sports knowledge, based solely on information that can be subtracted from online betting websites. We developed and tested a modified Martingale strategy which provided a high chance of profit in any subset of the time interval studied. 
+
+
+## Extracurricular Activities
+
+**ConectaR, 2021**  
+San José, Costa Rica  
+February 2021 
+
+* **Short presentation** "Fast Group Statistics with data.table"
+
+[Link to article in spanish](https://telaroz.github.io/conectaR2021/)
+
+
+**ConectaR, 2019**  
+San José, Costa Rica  
+January 2019 
+
+* **Plenary Talk:** "How to migrate from Excel to R?"
+
+ Translator from VBA to R code
+ 
+ Automation of an Excel workflow into R
+  
+* **Poster:** "Supervised classification methods comparison using R."
+
+**Costa Rican National Handball Team**  
+March 2014 - Present
+
+- Central American and Caribbean Games, 2018
+
+- Torneo Centroamericano Masculino Mayor El Salvador 2019 
+
+
+## Technical Skills
+
+  - Experience in R development: package creation, parallelization and high efficient code. 
+  - Data visualization experience, mostly with ggplot2. 
+  - Experience in Shiny apps development
+  - Solid Excel and VBA knowledge
+  - Solid Matlab knowledge
+  - Deep Learning Model Creation with Tensorflow with Keras in R
+  - Impala and Spark usage through R while also using direct SQL querying
+  - Basic Python knowledge
+
+## Languages
+
+- Spanish: Native Speaker
+- Russian: Fluent conversational
+- English: Technical and business knowledge
+- German: Advanced knowledge (C1). Abitur completed in german
+- French: Basic (A1)
