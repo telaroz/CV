@@ -8,7 +8,8 @@ output:
     highlight: github
 ---
 
-#### Escazú, Costa Rica ⬝ (+506) 8439-4445 ⬝ telaroz@gmail.com ⬝  [github](https://github.com/telaroz/) ⬝ [twitter](https://twitter.com/telaroz/) ⬝ https:/telaroz.com
+#### San José, Costa Rica ⬝ (+506) 8439-4445 ⬝ telaroz@gmail.com 
+#### ⬝ https://github.com/telaroz/ ⬝ https://twitter.com/telaroz/ ⬝ https://telaroz.com/
 
 
 ## Sports Analytics
@@ -22,8 +23,10 @@ These are accesible (in spanish) through these links:
 [Task 2](https://telaroz.github.io/colaborativa2/), 
 [Final Work](https://telaroz.github.io/tarea_final/).
 
-
 **Other developments**
+
+* Development of package to draw a handball court and other handball data 
+analysis utilities, available in the [handbaloner repository](https://github.com/telaroz/handbaloner).
 
 * Extraction, structuring and data opening of the play by play of the 2021 World
 Men's Handball Championship. Data and the code to generate it is freely 
