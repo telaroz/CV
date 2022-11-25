@@ -9,7 +9,9 @@ webshot::install_phantomjs()
 
 # render file as pdf
 webshot::rmdshot("espanol.Rmd", "CV_Valery_Zuniga.pdf")
-#webshot::rmdshot("spanish.rmd", "philippe_heymans_smith_es.pdf")
+
+
+webshot::rmdshot("balonmanico.Rmd", "Valery_Zuniga_CV.pdf")
 
 webshot::rmdshot("balonmanico.Rmd", "Valery_Zuniga_CV.pdf")
 
