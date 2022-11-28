@@ -19,7 +19,24 @@ Maestría Aplicada, Ciencia de Datos e Inteligencia Artificial
 Bachillerato, Ciencias Actuariales
 
 
-## Experiencia 
+## Experiencia Laboral
+
+**ixpantia**  
+Data science professional  
+Trabajo Remoto (basado en Costa Rica) Agosto 2021 -- Presente  
+Consultoría de datos 
+
+* Automatización y generación de procesos de cálculos de indicadores de crédito. 
+* Desarrollo de modelos estadísticos y de machine learning para modelación de la
+aprobación de crédito, con un enfoque en la reproducibilidad y mejores prácticas
+de ciencia de datos.
+* Automatización, simplificación y optimización de procesos que involucran 
+flujos a través de APIs. 
+* Desarrollo de APIs para pasar de un flujo de datos físico a flujos en la nube.
+* Despliegue básico de flujos de datos en la nube (Google Cloud Computing)
+* Capacitaciones internas al propio equipo. 
+* Todo este trabajo a través de un flujo limpio de control de versiones y 
+documentación completa. 
 
 **Mastercard SJO Center of Excellence**  
 Associate Consultant, Advanced Analytics.  
@@ -46,8 +63,6 @@ San José, Costa Rica. Marzo 2017 – Enero 2018
 
 ## Experiencia Académica
 
-
-
 **Clasificación de sentimientos en textos cortos e informales en español**
  
 Procesamiento de Lenguaje Natural  
@@ -67,9 +82,27 @@ Backtesting
 Desarrollado en VBA, Jun 2016 - Jul 2016
 
 
-- Simulamos el desempeño de distintas estrategias de apuestas que podría jugar un individuo sin conocimiento del deporte, basándose solamente en información extraída de páginas de apuestas en línea. Desarrollamos una estrategia de Martingala modificada con buenas probabilidades de ganancias en cualquier subconjunto del periodo estudiado.
+- Simulamos el desempeño de distintas estrategias de apuestas que podría jugar 
+un individuo sin conocimiento del deporte, basándose solamente en información 
+extraída de páginas de apuestas en línea. Desarrollamos una estrategia de 
+Martingala modificada con buenas probabilidades de ganancias en cualquier
+subconjunto del periodo estudiado.
 
 ## Experiencia Extracurricular
+
+**Datalatam, 2021**
+
+* **Presentación** "data.table para usuarios de dplyr y tidyverse"
+
+[Video en Youtube](https://www.youtube.com/watch?v=5AWoIgdHcT0&ab_channel=DataLatam)
+
+**ConectaR, 2021**  
+San José, Costa Rica  
+February 2021 
+
+* **Presentación corta** "Estadísticas de grupo rápidas with data.table"
+
+[Link al artículo](https://telaroz.github.io/conectaR2021/)
 
 **ConectaR, 2019**  
 San José, Costa Rica  
@@ -81,14 +114,6 @@ Enero 2019
   
 * **Poster:** "Comparación de métodos de clasificación con R"
 
-**Selección Nacional de Balonmano de Costa Rica**  
-Marzo 2014 - Actualidad
-
-- Juegos Centroamericanos y del Caribe 2018
-
-- Torneo Centroamericano Masculino Mayor El Salvador 2019 - Oro
-
-
 ## Habilidades técnicas
 
   - Dominio avanzado de desarrollo en R: creación de paquetes, paralelización y alta eficiencia
@@ -96,8 +121,9 @@ Marzo 2014 - Actualidad
   - Habilidades en desarrollo de aplicaciones Shiny
   - Conocimiento sólido en Excel y VBA
   - Conocimiento sólido en Matlab
-  - Creación de modelos de Deep Learning con Tensorflow a través de Keras en R
+  - Conocimiento sólido de SQL
   - Uso de Impala y Spark a través de R, apalancado del conocimiento en SQL
+  - Creación de modelos de Deep Learning con Tensorflow a través de Keras en R
   - Conocimiento básico de Python
 
 
