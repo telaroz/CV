@@ -14,6 +14,14 @@ output:
 
 ## Sports Analytics
 
+**`handbaloner` package** 
+
+* Development of a package with functions to draw a court, goal, pace 
+plots from handball Play by Play data. Also, contains functions to scrape and 
+transform data from PDF files containing Play by Play data.
+The package is available in the 
+[`handbaloner` repository](https://github.com/telaroz/handbaloner).
+
 **Sports Data Campus** 2021
 University Diploma in Advanced Analyics in Handball
 
@@ -23,14 +31,15 @@ These are accesible (in spanish) through these links:
 [Task 2](https://telaroz.github.io/colaborativa2/), 
 [Final Work](https://telaroz.github.io/tarea_final/).
 
+* Courses imparted mainly by Xavier Pascual, FC Barcelona trainer at the time, 
+and Anselmo Ruíz Alarcón, sports data analyst. 
+
 **Other developments**
 
-* Development of package to draw a handball court and other handball data 
-analysis utilities, available in the [handbaloner repository](https://github.com/telaroz/handbaloner).
-
-* Extraction, structuring and data opening of the play by play of the 2021 World
-Men's Handball Championship. Data and the code to generate it is freely 
-available in [Github](https://github.com/telaroz/egipto21).
+* Extraction, structuring and data opening of the play by play of the 2021 and 2023
+World Men's Handball Championship. Data and the code to generate it is freely 
+available: [2021](https://github.com/telaroz/egipto21) and 
+[2023](https://github.com/telaroz/pol_swe_2023_data).
 
 * Creation of a Shiny app for the collection and a posterior analysis of the 7m 
 shootings data for the Costa Rican Men's National Handball Team. 
@@ -72,27 +81,28 @@ best data science practices.
 * Develop scripts to complete law changes for financial institutions.
 * Help with the development of APIs to shift on-premise workflows to cloud 
 * Document APIs smoothly through automation. 
-* Simplifying and automation of worflows for API consumption.
-* Deployment of basic workflows to cloud (Google CLoud Computing)
-* Imparted an R advanced R course for a finantial institution
-* All this work done through a clean version control workflow and complete 
-documentation. 
+* Simplifying and automation of workflows for API consumption.
+* Deployment of basic workflows to cloud (Google Cloud Computing)
+* Imparted intermediate and advanced R courses for financial institutions
+* All this work done through a clean version control workflow and focusing on 
+complete documentation. 
 
 **Mastercard SJO Center of Excellence**  
 Associate Consultant, Advanced Analytics.  
-San José, Costa Rica. May 2019 -- Present
+San José, Costa Rica. May 2019 -- May 2022
 
 *	Delivery of advanced analytics products for several financial institutions
 across the continent, leveraging the hundreds of GB of transactional data the 
 company holds. Some of the deliveries included fraud rules creation, customer 
-behavioural segmentations, campaign performance diagnostics, product migration 
+behavioral segmentations, campaign performance diagnostics, product migration 
 models, authorizations diagnostics and data quality assessments.
 * Technical and methodological presentations of the projects for internal and
 external stakeholders mostly of non-technical profiles. 
 * Development of in-house R-packages. These fully documented packages allow to
 complete specific kind of projects from beginning to end, while also compiling 
 functions for multiple purposes. 
-* Imparted R trainings for the team.
+* Imparted multipe R trainings for the team (best practices, optimization,
+`data.table`, `purrr`).
 
 **Instituto Nacional de Seguros**  
 Reserve Technician.
@@ -166,7 +176,7 @@ January 2019
 
 ## Technical Skills
 
-  - Experience in R development: package creation, parallelization and high efficient code. 
+  - Experience in R development: package creation, parallelization and highly efficient code. 
   - Data visualization experience, mostly with ggplot2. 
   - Experience in Shiny apps development
   - Solid Excel and VBA knowledge
